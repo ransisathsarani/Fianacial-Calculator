@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MyFinanceCalculator
+  Uow User Name: w1912434
+  Created by Ransi on 2022-07-24.
+  
+*/
+mortgage = "MORTGAGE";
+savings = "SAVINGS";
+loan = "LOAN";
+help = "HELP";
+clear = "Clear";
+savingsHelp = "You can calculate savings with no further payments or with regular contributions.
+\nPresent Value, Future Value, Interest Rate, No of Payments Per Year and Payment can be calculated using this app.
+\nLeave the field blank on the parameter that you want to solve and please fill the rest.
+\nWhen calculating future value either payment can be specified or leave it empty for fixed sum investment.";
+no = "No";
+year = "Year";
+futureValue = "Future Val";
+interest = "Interest %";
+payment = "Payment";
